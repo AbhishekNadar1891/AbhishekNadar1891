@@ -74,16 +74,9 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [nadarbalaabhishek@gmail.com](mailto:nadarbalaabhishek@gmail.com)
-* 🔗 LinkedIn: (add your link)
+* 🔗 LinkedIn: https://www.linkedin.com/in/bala-abhishek-nadar-18308936a/
 * 💻 GitHub: (you’re already here)
 
----
-
-## ⚙️ GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
----
 
 ## 🧠 Fun Fact
 
